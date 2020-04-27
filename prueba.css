@@ -5,6 +5,6 @@ color: white;
   text-align: center;
   vertical-item: center;
 }
-h1{
-  letter-shadow: 0 0 10px black;
+p{
+  color: red;
 }
